@@ -38,8 +38,6 @@ def run_sequence(steps):
     
     return tuple(state.values())
 
-🔍 А вот код для проверки:
-
 # Тестируем
 results = set()
 steps_count = 100
